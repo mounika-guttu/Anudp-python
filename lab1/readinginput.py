@@ -1,0 +1,6 @@
+a=int(input("enter a number"))
+print(type(a))
+b=input("enter your name")
+print(type(b))
+c=float(input("enter a decimal number"))
+print(type(c))
